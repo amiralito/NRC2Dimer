@@ -31,6 +31,8 @@ Usage: uniq_aa.py <QUERY_FASTA> <SUBJECT_FASTA> <MIN_FREQUENCY> <MIN_RATIO>
 
 - **MIN_RATIO:** Minimum ratio threshold for an amino acid to be considered unique in the query group. The ratio is calculated as the frequency of the amino acid in the query group divided by its frequency in the subject group.
 
+The amino acids highlighted by asterisk (*) in the output are detected as an unique amino acid in the query group.
+
 
 ```
 ./uniq_aa.py NRC2.afa ./uniq_aa_results/merged_fasta/excl_NRC2.afa 0.8 50 > ./uniq_aa_results/NRC2_to_others_f0.8_r50.txt
