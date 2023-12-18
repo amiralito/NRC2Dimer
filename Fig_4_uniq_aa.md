@@ -48,4 +48,4 @@ Merge all the results
 paste ./uniq_aa_results/*_f0.8_r50.txt > ./uniq_aa_results/all_uniq_aa_results.txt
 ```
 
-Results in all_uniq_aa_results.txt are used to make Excel sheet.
+Results in ```all_uniq_aa_results.txt``` are used to make Excel sheet.
