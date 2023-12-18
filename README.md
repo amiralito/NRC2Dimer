@@ -1,4 +1,4 @@
-# Supporting scripts and material for "Activation of plant immunity through dissociation of a helper NLR homodimer".
+# Supporting scripts and material for "Activation of plant immunity through conversion of a helper NLR homodimer into a resistosome".
 
 Resources:
 Software                            | Source
