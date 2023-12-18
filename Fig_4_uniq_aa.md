@@ -25,7 +25,7 @@ Usage: uniq_aa.py <QUERY_FASTA> <SUBJECT_FASTA> <MIN_FREQUENCY> <MIN_RATIO>
 
 **QUERY_FASTA:** Path to the FASTA file containing the query group sequences.
 
-**SUBJECT_FASTA:** Path to the FASTA file containing the subject sequences (excluding the query groåup).
+**SUBJECT_FASTA:** Path to the FASTA file containing the subject sequences (excluding the query group).
 
 **MIN_FREQUENCY:** Minimum frequency threshold for an amino acid to be considered unique in the query group.
 
