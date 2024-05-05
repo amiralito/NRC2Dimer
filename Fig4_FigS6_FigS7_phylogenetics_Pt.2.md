@@ -1,4 +1,4 @@
-1. To extract the NRC clade and NRC helpers, we first made a [phylogenetic tree of all NLRs from 124 genomes based on the NBARC domains](phylogenetics/NBARC_ref_filtered.newick). Then a well-supported branch comprising both NRC helpers and sensors was selected and extracted *Dendroscope* (Options > Advanced Options > Extract Subnetwork...) from the phylogenetic tree ([NRC.tree](phylogenetics/NRC.tree):
+1. To extract the NRC clade and NRC helpers, we first made a [phylogenetic tree of all NLRs from 124 genomes based on the NBARC domains](phylogenetics/NBARC_ref_filtered.newick). Then a well-supported branch comprising both NRC helpers and sensors was selected and extracted *Dendroscope* (Options > Advanced Options > Extract Subnetwork...) from the phylogenetic tree ([NRC.tree](phylogenetics/NRC.tree)):
 
 ![NBARC_all](extras/NBARC_all.png)
 
