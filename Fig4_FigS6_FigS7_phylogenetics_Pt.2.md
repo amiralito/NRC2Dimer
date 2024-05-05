@@ -2,7 +2,7 @@
 
 ![NBARC_all](extras/NBARC_all.png)
 
-2. The extracted sequences were aligned again and a new phylogenetic tree of the NRC network was made using the alignment ([NRC_i2.newick](phylogenetics/NRC_i2.newick)). Finally, the well-supported branch containing all reference NRC helpers was selected and extracted in the same way as before for the NRC helper clade:
+2. The extracted sequences were aligned again and a new phylogenetic tree of the NRC network was made using the alignment ([NRC_i2.newick](phylogenetics/NRC_i2.newick)). Next, the well-supported branch containing all reference NRC helpers was selected and extracted in the same way as before for the NRC helper clade:
 
 ![NRC_all](extras/NRC_all.png)
 
