@@ -6,4 +6,4 @@
 
 ![NRC_all](extras/NRC_all.png)
 
-3. Finally, [NRC helper subclades](phylogenetics/clades) were extracted based on reference NRC sequences' presence.
+3. Finally, [NRC helper subclades](phylogenetics/clades) were extracted from the curated [NRC helper sequences](phylogenetics/NRCH_clu_NBARC_filtered_ref.fasta) and the [phylogenetic tree](phylogenetics/NRCH_clu_NBARC_filtered_ref.newick) made from them and based on reference NRC sequences' presence.
