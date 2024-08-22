@@ -1,8 +1,7 @@
 # Phylogenomics and diversification analysis of the NRC helper clade from 123 Solanaceae proteomes.
 
 Supporting scripts and material for:
-------------------------------------
-## Activation of plant immunity through conversion of a helper NLR homodimer into a resistosome
+# Activation of plant immunity through conversion of a helper NLR homodimer into a resistosome
 Muniyandi Selvaraj, AmirAli Toghani, Hsuan Pai, Yu Sugihara, Jiorgos Kourelis, Enoch Lok Him Yuen, Tarhan Ibrahim, He Zhao, Rongrong Xie, Abbas Maqbool, Juan Carlos De la Concepcion, Mark J Banfield, Lida Derevnina, Benjamin Petre, David M Lawson, Tolga O Bozkurt, Chih-Hang Wu, Sophien Kamoun, Mauricio P Contreras
 
 DOI: https://doi.org/10.1101/2023.12.17.572070
