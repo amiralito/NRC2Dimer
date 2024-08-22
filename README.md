@@ -1,4 +1,6 @@
-# Supporting scripts and material for "Activation of plant immunity through conversion of a helper NLR homodimer into a resistosome".
+# Phylogenomics and diversification analysis of the NRC helper clade from 123 Solanaceae proteomes.
+
+Supporting scripts and material for "Activation of plant immunity through conversion of a helper NLR homodimer into a resistosome".
 
 Resources:
 Software                            | Source
