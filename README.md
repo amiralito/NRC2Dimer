@@ -3,14 +3,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13362063.svg)](https://doi.org/10.5281/zenodo.13362063)
 [![DOI](https://img.shields.io/badge/bioRxiv-doi.org/10.1101/2023.12.17.572070-BE2634.svg)](https://doi.org/10.1126/science.adg5261)
 
-Supporting scripts and material for:
+Supporting scripts and material for
 # Activation of plant immunity through conversion of a helper NLR homodimer into a resistosome
 Muniyandi Selvaraj, AmirAli Toghani, Hsuan Pai, Yu Sugihara, Jiorgos Kourelis, Enoch Lok Him Yuen, Tarhan Ibrahim, He Zhao, Rongrong Xie, Abbas Maqbool, Juan Carlos De la Concepcion, Mark J Banfield, Lida Derevnina, Benjamin Petre, David M Lawson, Tolga O Bozkurt, Chih-Hang Wu, Sophien Kamoun, Mauricio P Contreras
-
-DOI: https://doi.org/10.1101/2023.12.17.572070
-
-
-
 
 
 Resources:
